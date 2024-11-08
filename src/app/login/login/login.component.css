@@ -1,0 +1,28 @@
+mat-form-field
+{
+    width: 100%;
+}
+
+.top{
+
+ margin-top: 10%;
+}
+
+body{
+
+    background-image: url(../../../assets/ppp.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+
+mat-label
+{
+    color: white;
+}
+.l
+{
+   color: white;
+   font-size: 50px;
+   height: 100px;
+}

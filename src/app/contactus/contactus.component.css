@@ -1,0 +1,28 @@
+mat-form-field
+{
+    width: 100%;
+}
+
+
+.top{
+
+    margin-top: 4%;
+}
+body{
+
+    background-image: url(../../assets/con3.jpg) ;
+    background-repeat: no-repeat;
+    padding: top 100%;
+    background-size: cover;
+    backdrop-filter: 50%;
+}
+
+ mat-label
+{
+    color: white;
+} 
+.l{
+
+    color: white;
+    font-size:40px ;
+}
